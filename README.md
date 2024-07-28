@@ -36,7 +36,7 @@ We source ingredients from local farmers practicing sustainable agriculture and 
 5. **Community Engagement:** Support health, nutrition, and cultural preservation initiatives.
 
 ## Repository File Structure
-brownway-food-solutions/
+brownway-food-solutions
 │
 ├── README.md             # Project overview and detailed information
 ├── docs/                 # Documentation, including research, product details, and reports

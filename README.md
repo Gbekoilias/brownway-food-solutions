@@ -1,4 +1,5 @@
 # Brownway Food Solutions
+![brownway product pic](https://github.com/Gbekoilias/brownway-food-solutions/blob/5c628470152781dcb34636ef9d841a59b64f0000/assets/img.ai/10.jpg)
 
 Brownway Food Solutions is dedicated to offering convenient, nutritious, and culturally relevant premix staple foods that celebrate African culinary heritage. Our products are designed to save time for busy families while maintaining a strong commitment to quality, sustainability, and cultural preservation.
 
